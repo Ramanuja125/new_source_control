@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "7OtUpzs4MlTcUcjq1dhCcQ",
-    "name" : "Business Service15",
+    "id" : "9cLuF1RQ9ITi7ReAaK1LWj",
+    "name" : "Business Service15 - Copy 1",
     "type" : "BSERVICE",
     "metadata" : {
       "modelVersion" : {
@@ -9,18 +9,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "017JAQ2700000000002Q"
+        "repoHandle" : "017JAQ2700000000002R"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       }, {
-        "name" : "017JAQ2800000000005N",
-        "value" : "7OtUpzs4MlTcUcjq1dhCcQ@rm_swagger_login"
+        "name" : "017JAQ2800000000005O",
+        "value" : "9cLuF1RQ9ITi7ReAaK1LWj@rm_swagger_login"
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
