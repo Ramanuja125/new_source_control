@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "84szaVFeDq5elaXnATVt8b",
-    "name" : "mt_case_04512434_checkin - Copy 1",
-    "type" : "MTT",
+    "id" : "0NOUXMdYy2BfZxTlfb9xyB",
+    "name" : "case_04512434_checkin - Copy 1",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "017JAQ0Z0000000001KP"
+        "repoHandle" : "017JAQ170000000001HK"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -34,69 +34,6 @@
       },
       "repoInfo" : {
         "repoHandle" : "017JAQ0B00000000006Q"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "0NOUXMdYy2BfZxTlfb9xyB",
-    "name" : "case_04512434_checkin - Copy 1",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "017JAQ170000000001HK"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Ramanuja"
-  }, {
-    "id" : "0m2aqoPNoQ0da89AV0oDwG",
-    "name" : "_____Ramanuja",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "017JAQ2500000000000X"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "4wMLu5J8vjoheMGbeCASkc",
-    "name" : "rest_conn",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "017JAQ0B0000000000PH"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
